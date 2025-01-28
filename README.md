@@ -1,6 +1,6 @@
 # PAEViT
 
-This is a complete guide on how to download, install, and train PAEViT on CIFAR10, CIFAR100, TinyImageNet etc., or even your own variations of the same. 
+This is a complete guide on how to download, install, and train PAEViT on CIFAR10, CIFAR100, TinyImageNet, or even your own variations of the same. 
 ---
 To get started, you will first need all the files on your local machine. To do this, you must either download or clone this repository.
 ## Cloning the Repository
