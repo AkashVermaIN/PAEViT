@@ -61,3 +61,4 @@ After the training is complete, all results, including model checkpoints, logs, 
 
 You can review these results to analyze the performance of the experiments.
 
+## If you find any of our work helpful, please cite our paper in your publications. Thank you.
