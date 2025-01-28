@@ -1,8 +1,8 @@
 # PAEViT
 
-First, either download the github repository directly as a zip file and extract it, or clone it using the following command in your terminal:
+This is a complete guide on how to download, install, and train PAEViT on CIFAR10, CIFAR100, TinyImageNet etc., or even your own variations of the same. 
 ---
-
+To get started, you will first need all the files on your local machine. To do this, you must either download or clone this repository.
 ## Cloning the Repository
 You can get the **PAEViT** repository in two ways:
 1. **Download:** Download the repository as a ZIP file from GitHub, then extract it.
