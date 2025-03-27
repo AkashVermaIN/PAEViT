@@ -1,4 +1,7 @@
+
+
 # PAEViT
+Our work has been published in the 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing, titled <b>Patch Attention Excitation Based Vision Transformer for Small-Sized Datasets</b> which you can read at IEEE Xplore <a href=https://ieeexplore.ieee.org/document/10888545>here</a>. To cite the same, please either copy or download the included bib file here, or go to the IEEE Xplore page for more options.
 
 This is a complete guide on how to download, install, and train PAEViT on CIFAR10, CIFAR100, TinyImageNet, or even your own variations of the same. 
 ---
