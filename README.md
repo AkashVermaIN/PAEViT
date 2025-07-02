@@ -46,7 +46,7 @@ Once all the dependencies are installed, you’re ready to start training. Once 
 
 In case the **run** file doesn't execute and you get the "permission denied" message, open terminal inside the PAEViT folder, and run the following command:
    ```bash
-   chmod u+x run
+   sudo chmod u+x run
    ```
 You can use any of the predefined training configurations provided in the repository or create your own.
 
