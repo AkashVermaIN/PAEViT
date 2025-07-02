@@ -44,6 +44,10 @@ Once all the dependencies are installed, you’re ready to start training. Once 
 1. Open the **PAEViT** folder.
 2. Double-click the **run** file (recommended) to start the PAEViT Training program and select the appropriate options according to your requirements, or open terminal to run main.py along with all the appropriate arguments (for highly customized testing).
 
+In case the **run** file doesn't execute and you get the "permission denied" message, open terminal inside the PAEViT folder, and run the following command:
+   ```bash
+   chmod u+x run
+   ```
 You can use any of the predefined training configurations provided in the repository or create your own.
 
 ---
