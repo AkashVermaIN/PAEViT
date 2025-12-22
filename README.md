@@ -68,6 +68,8 @@ After the training is complete, all results, including model checkpoints, logs, 
 
 You can review these results to analyze the performance of the experiments.
 
-## If you find any of our work helpful, please cite our paper in your publications. If you wish to check out the original implementations of this code without the PAEViT module and other modifications you can find SPT_LSA_VIT implementation at <a href=https://github.com/aanna0701/SPT_LSA_ViT>this link</a>, which was one of the core foundations for our work. Thank you.
+If you wish to check out the original implementations of this code without the PAEViT module and other modifications you can find SPT_LSA_VIT implementation at <a href=https://github.com/aanna0701/SPT_LSA_ViT>this link</a>, which was one of the core foundations for our work. 
+
+## If you find any of our work helpful, please cite our paper in your publications. Thank you.
 
 
