@@ -345,9 +345,6 @@ def validate(val_loader, model, criterion, lr, args, epoch=None):
     f.write('Test | Epoch: %d | Loss: %.3f | Acc: %.3f\n'
                 % (epoch+1, avg_loss, avg_acc1))
     f.close()
-    if epoch>=99:
-        f = open('/home/cvbltuf/VIT/totallog.txt', 'a')
-        f.write('Epoch: %s, Final Accuracy of %s: %.3f\n' % (epoch+1, args.exp_name, best_acc1))
     return avg_acc1
 
 
@@ -393,3 +390,4 @@ if __name__ == '__main__':
     keys = ['T Loss', 'T Top-1', 'V Loss', 'V Top-1'] 
     
     main(args)
+
